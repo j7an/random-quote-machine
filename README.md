@@ -16,3 +16,5 @@ Remember to use Read-Search-Ask if you get stuck.
 When you are finished, click the "I've completed this challenge" button and include a link to your CodePen.
 
 You can get feedback on your project from fellow campers by sharing it in our Code Review Chatroom. You can also share it on Twitter and your city's Campsite (on Facebook).
+
+Demo of working code @ http://codepen.io/j7an/full/QNQEKq/
